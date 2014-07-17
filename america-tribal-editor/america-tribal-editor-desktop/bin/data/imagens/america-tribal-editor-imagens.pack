@@ -1,0 +1,264 @@
+
+america-tribal-editor-imagens.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+aldeia-centro
+  rotate: false
+  xy: 0, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+aldeia-norte
+  rotate: false
+  xy: 0, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+aldeia-sul
+  rotate: false
+  xy: 182, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+aura-time-a
+  rotate: false
+  xy: 0, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+aura-time-b
+  rotate: false
+  xy: 182, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-agua
+  rotate: false
+  xy: 364, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-areia
+  rotate: false
+  xy: 0, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-floresta
+  rotate: false
+  xy: 182, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-grama
+  rotate: false
+  xy: 364, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-pedra
+  rotate: false
+  xy: 546, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cenario-terra
+  rotate: false
+  xy: 0, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+construcao-observatorio
+  rotate: false
+  xy: 182, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+explorador-centro
+  rotate: false
+  xy: 364, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+explorador-norte
+  rotate: false
+  xy: 546, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+explorador-sul
+  rotate: false
+  xy: 728, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+objeto-carne
+  rotate: false
+  xy: 182, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+objeto-madeira
+  rotate: false
+  xy: 364, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+objeto-pedra
+  rotate: false
+  xy: 546, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+recurso-fazenda
+  rotate: false
+  xy: 728, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+recurso-floresta
+  rotate: false
+  xy: 910, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+recurso-mina
+  rotate: false
+  xy: 364, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-animal-centro
+  rotate: false
+  xy: 546, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-animal-norte
+  rotate: false
+  xy: 728, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-animal-sul
+  rotate: false
+  xy: 910, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-basico-centro
+  rotate: false
+  xy: 1092, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-basico-norte
+  rotate: false
+  xy: 546, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-basico-sul
+  rotate: false
+  xy: 728, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-distancia-centro
+  rotate: false
+  xy: 910, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-distancia-norte
+  rotate: false
+  xy: 1092, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-distancia-sul
+  rotate: false
+  xy: 1274, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mistico-centro
+  rotate: false
+  xy: 728, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mistico-norte
+  rotate: false
+  xy: 910, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mistico-sul
+  rotate: false
+  xy: 1092, 364
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mitico-centro
+  rotate: false
+  xy: 1274, 546
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mitico-norte
+  rotate: false
+  xy: 1456, 728
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+unidade-mitico-sul
+  rotate: false
+  xy: 910, 0
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+vazio
+  rotate: false
+  xy: 1092, 182
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
